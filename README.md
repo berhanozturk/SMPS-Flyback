@@ -1,6 +1,5 @@
 # SMPS-Flyback
-<img width="512" height="380" alt="mut-flyback" src="https://github.com/user-attachments/assets/0ed76696-7d19-49cc-a88b-e91d324784aa" /> 
-<img width="512" height="380" alt="mut-flyback2" src="https://github.com/user-attachments/assets/4e79af9e-fa0e-4307-b5ef-e911df57514d" />
+<img width="512" height="380" alt="mut-flyback" src="https://github.com/user-attachments/assets/0ed76696-7d19-49cc-a88b-e91d324784aa" /> <img width="512" height="380" alt="mut-flyback2" src="https://github.com/user-attachments/assets/4e79af9e-fa0e-4307-b5ef-e911df57514d" />
 
 
 85-265 VAC giriş gerilimini sabit 24V 2.5A DC
